@@ -1,0 +1,61 @@
+
+.navbar {
+    text-align: center;
+    background: rgb(154, 154, 228);
+    word-spacing: 20px;
+
+}
+
+.navbar li {
+    display: inline;
+    background: rgb(154, 154, 228);
+    font-size: 20px;
+    font-weight: bold;
+    word-spacing: 10px;
+
+    
+}
+
+.navbar li a{
+    
+    text-decoration: none;
+    
+}
+
+body{
+    font-family: Helvetica , roboto;
+    background: rgb(187, 187, 222);
+
+}
+
+.title{
+    color: rgb(96, 9, 177);
+}
+h3{
+    color: rgb(5, 106, 124);
+}
+h4{
+    color: rgb(170, 80, 158);
+    
+}
+
+.parag{
+    display: inline-block;
+    width: 40%; 
+    padding: 5px;
+    
+}
+
+.bord {
+    border: solid rgb(154, 154, 228);
+    border-radius: 15px;
+    padding: 8px;
+}
+
+
+
+footer {
+    text-align: center;
+    padding: 20px;
+}
+
